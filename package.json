@@ -1,7 +1,7 @@
 {
   "name": "art_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Important: There is a new repo for this code.\r [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,19 @@
   "dependencies": {
     "all": "^0.0.0",
     "canvas": "^2.8.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashLips/generative-art-opensource.git"
+  },
+  "keywords": [
+    "greek",
+    "letters",
+    "starlabman"
+  ],
+  "bugs": {
+    "url": "https://github.com/HashLips/generative-art-opensource/issues"
+  },
+  "homepage": "https://github.com/HashLips/generative-art-opensource#readme"
 }
